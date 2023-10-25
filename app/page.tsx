@@ -25,7 +25,7 @@ export default function HomePage() {
           className="border border-gray-700 rounded-lg py-2 px-4 text-gray-400 text-sm mb-5 transition duration-300 ease-in-out"
         >
           Welcome to use{" "}
-          <span className="text-blue-600">Vercel</span>
+          <span className="text-blue-600">roomGPT</span>
         </a>
         <h1 className="mx-auto max-w-4xl font-display text-5xl font-bold tracking-normal text-gray-300 sm:text-7xl">
           Generating dream rooms{" "}
